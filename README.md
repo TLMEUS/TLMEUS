@@ -1,4 +1,4 @@
-Greeting. My name is Troy Marker. I am the founder and primary developer at Troy L Marker Enterprises. I have been working on computer software for most of my life. I am also a huge fan of Gene Roddenberry's Star Trek,
+Greetings. My name is Troy Marker. I am the founder and primary developer at Troy L Marker Enterprises. I have been working on computer software for most of my life. I am also a huge fan of Gene Roddenberry's Star Trek,
 and have tried to identify my software using a method similar to how Star Trek has named their Star  Fleet ships. Each piece of software I have created, and host here at GitHub is named similarily to how starships are
 named.
 
