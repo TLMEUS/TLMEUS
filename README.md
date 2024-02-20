@@ -17,12 +17,11 @@ Over the years I created my own little "offices" in different rooms in the famil
 programming languages.
 
 I do honestly have a love for programming, and find it to be challenging and do find joy creating a program to perform
-a tack.
+a task.
 
-I am currently working on project in HTML, Swift, Java, and Kotlin. I am working on a project to assist at my "real"
-job. It is my hope to get it approved by my employer to assist others at work. I am alway willing to talk about my
-projects, and assist anyone I can with any programming problems that I can. You may email me at ceo@tlme.us anytime
-if you want to chat.
+I am currently working on project in HTML, Swift, Java, and Kotlin. While I was at a previous job, I noticed that a 
+computer system could be used to improve the operation. So, I am working on that computer system, takeing inspiration
+form other computers systems I have used.
 
 Thank you for reading.
 
