@@ -6,7 +6,7 @@ I have been working on computer software for most of my life. I started my progr
 I was a freshman in high school on a Texas Instruments TI-99/4A personnel computer my parents bought for the "family" 
 for Christmas that year. I started with simple programs out of computer magazines. Over the years I moved up to Color
 Computers from Radio Shack, all the while learning to write programs in the BASIC programming language. I then took a
-correspondence course in computer programming, where I was introduced to the IDM compatible computer. 
+correspondence course in computer programming, where I was introduced to the IBM compatible computer. 
 
 This correspondence course introduced me to other languages, such as Pascal, C, C++, COBOL, and (my least favorite)
 Assembly Language. I also created a simple program that resembled a Windows type program, before Windows was a thing.
