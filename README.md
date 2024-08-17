@@ -19,9 +19,9 @@ programming languages.
 I do honestly have a love for programming, and find it to be challenging and do find joy creating a program to perform
 a task.
 
-I am currently working on project in HTML, Swift, Java, and Kotlin. While I was at a previous job, I noticed that a 
+I am currently working on project in Flutter and Dart to be cross-platform. While I was at a previous job, I noticed that a 
 computer system could be used to improve the operation. So, I am working on that computer system, takeing inspiration
-form other computers systems I have used.
+from other computers systems I have used.
 
 Thank you for reading.
 
